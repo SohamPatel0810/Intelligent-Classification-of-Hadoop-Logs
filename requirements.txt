@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+tensorflow
+logparser3
+tqdm
+sentence-transformers
